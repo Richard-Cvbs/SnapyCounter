@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\super\\source\\repos\\SnapyCounter\\CounterSite.csproj",
+      "projectUniqueName": "C:\\Users\\super\\source\\repos\\temp\\SnapyCounter\\CounterSite.csproj",
       "projectName": "CounterSite",
-      "projectPath": "C:\\Users\\super\\source\\repos\\SnapyCounter\\CounterSite.csproj",
+      "projectPath": "C:\\Users\\super\\source\\repos\\temp\\SnapyCounter\\CounterSite.csproj",
       "packagesPath": "C:\\Users\\super\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\super\\source\\repos\\SnapyCounter\\obj\\",
+      "outputPath": "C:\\Users\\super\\source\\repos\\temp\\SnapyCounter\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\super\\AppData\\Roaming\\NuGet\\NuGet.Config",

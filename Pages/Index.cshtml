@@ -7,4 +7,15 @@
 <div class="text-center">
     <h1 class="display-4">Welcome</h1>
     <p>Learn about <a href="https://docs.microsoft.com/aspnet/core">building Web apps with ASP.NET Core</a>.</p>
+    <p class="btn-primary relevant">
+    0
+    </p>
+    <script>
+        const relNode = document.querySelector('.relevant')
+        let count = 0;
+        setInterval(function () {
+            count += 1
+            relNode.innerHTML = count
+        }, 1000);
+    </script>
 </div>
